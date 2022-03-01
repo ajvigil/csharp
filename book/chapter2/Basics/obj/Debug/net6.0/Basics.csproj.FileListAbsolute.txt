@@ -1,0 +1,15 @@
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Basics/bin/Debug/net6.0/Basics
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Basics/bin/Debug/net6.0/Basics.deps.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Basics/bin/Debug/net6.0/Basics.runtimeconfig.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Basics/bin/Debug/net6.0/Basics.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Basics/bin/Debug/net6.0/ref/Basics.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Basics/bin/Debug/net6.0/Basics.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Basics/obj/Debug/net6.0/Basics.csproj.AssemblyReference.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Basics/obj/Debug/net6.0/Basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Basics/obj/Debug/net6.0/Basics.AssemblyInfoInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Basics/obj/Debug/net6.0/Basics.AssemblyInfo.cs
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Basics/obj/Debug/net6.0/Basics.csproj.CoreCompileInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Basics/obj/Debug/net6.0/Basics.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Basics/obj/Debug/net6.0/ref/Basics.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Basics/obj/Debug/net6.0/Basics.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Basics/obj/Debug/net6.0/Basics.genruntimeconfig.cache
