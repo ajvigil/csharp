@@ -1,0 +1,15 @@
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Numbers/bin/Debug/net6.0/Numbers
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Numbers/bin/Debug/net6.0/Numbers.deps.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Numbers/bin/Debug/net6.0/Numbers.runtimeconfig.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Numbers/bin/Debug/net6.0/Numbers.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Numbers/bin/Debug/net6.0/ref/Numbers.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Numbers/bin/Debug/net6.0/Numbers.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Numbers/obj/Debug/net6.0/Numbers.csproj.AssemblyReference.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Numbers/obj/Debug/net6.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Numbers/obj/Debug/net6.0/Numbers.AssemblyInfoInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Numbers/obj/Debug/net6.0/Numbers.AssemblyInfo.cs
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Numbers/obj/Debug/net6.0/Numbers.csproj.CoreCompileInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Numbers/obj/Debug/net6.0/Numbers.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Numbers/obj/Debug/net6.0/ref/Numbers.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Numbers/obj/Debug/net6.0/Numbers.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Numbers/obj/Debug/net6.0/Numbers.genruntimeconfig.cache
