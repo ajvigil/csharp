@@ -1,0 +1,15 @@
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Arrays/obj/Debug/net6.0/Arrays.csproj.AssemblyReference.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Arrays/obj/Debug/net6.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Arrays/obj/Debug/net6.0/Arrays.AssemblyInfoInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Arrays/obj/Debug/net6.0/Arrays.AssemblyInfo.cs
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Arrays/obj/Debug/net6.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Arrays/bin/Debug/net6.0/Arrays
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Arrays/bin/Debug/net6.0/Arrays.deps.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Arrays/bin/Debug/net6.0/Arrays.runtimeconfig.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Arrays/bin/Debug/net6.0/Arrays.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Arrays/bin/Debug/net6.0/ref/Arrays.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Arrays/bin/Debug/net6.0/Arrays.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Arrays/obj/Debug/net6.0/Arrays.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Arrays/obj/Debug/net6.0/ref/Arrays.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Arrays/obj/Debug/net6.0/Arrays.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Arrays/obj/Debug/net6.0/Arrays.genruntimeconfig.cache

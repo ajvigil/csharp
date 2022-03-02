@@ -1,0 +1,15 @@
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/NullHandling/obj/Debug/net6.0/NullHandling.csproj.AssemblyReference.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/NullHandling/obj/Debug/net6.0/NullHandling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/NullHandling/obj/Debug/net6.0/NullHandling.AssemblyInfoInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/NullHandling/obj/Debug/net6.0/NullHandling.AssemblyInfo.cs
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/NullHandling/obj/Debug/net6.0/NullHandling.csproj.CoreCompileInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/NullHandling/bin/Debug/net6.0/NullHandling
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/NullHandling/bin/Debug/net6.0/NullHandling.deps.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/NullHandling/bin/Debug/net6.0/NullHandling.runtimeconfig.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/NullHandling/bin/Debug/net6.0/NullHandling.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/NullHandling/bin/Debug/net6.0/ref/NullHandling.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/NullHandling/bin/Debug/net6.0/NullHandling.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/NullHandling/obj/Debug/net6.0/NullHandling.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/NullHandling/obj/Debug/net6.0/ref/NullHandling.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/NullHandling/obj/Debug/net6.0/NullHandling.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/NullHandling/obj/Debug/net6.0/NullHandling.genruntimeconfig.cache
