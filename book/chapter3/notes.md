@@ -17,3 +17,5 @@ var resultOfOperation = onlyOperand operator;
 var resultOfOperation2 = operator onlyOperand;
 ```
 
+## logical operators 
+> **logical operators** operate on boolean values, so they return `true` or `false`
