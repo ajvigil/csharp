@@ -1,0 +1,15 @@
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Formatting/obj/Debug/net6.0/Formatting.csproj.AssemblyReference.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Formatting/obj/Debug/net6.0/Formatting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Formatting/obj/Debug/net6.0/Formatting.AssemblyInfoInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Formatting/obj/Debug/net6.0/Formatting.AssemblyInfo.cs
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Formatting/obj/Debug/net6.0/Formatting.csproj.CoreCompileInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Formatting/bin/Debug/net6.0/Formatting
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Formatting/bin/Debug/net6.0/Formatting.deps.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Formatting/bin/Debug/net6.0/Formatting.runtimeconfig.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Formatting/bin/Debug/net6.0/Formatting.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Formatting/bin/Debug/net6.0/ref/Formatting.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Formatting/bin/Debug/net6.0/Formatting.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Formatting/obj/Debug/net6.0/Formatting.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Formatting/obj/Debug/net6.0/ref/Formatting.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Formatting/obj/Debug/net6.0/Formatting.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter2/Formatting/obj/Debug/net6.0/Formatting.genruntimeconfig.cache
