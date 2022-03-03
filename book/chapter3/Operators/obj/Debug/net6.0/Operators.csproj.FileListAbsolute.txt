@@ -1,0 +1,15 @@
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/Operators/obj/Debug/net6.0/Operators.csproj.AssemblyReference.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/Operators/obj/Debug/net6.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/Operators/obj/Debug/net6.0/Operators.AssemblyInfoInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/Operators/obj/Debug/net6.0/Operators.AssemblyInfo.cs
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/Operators/obj/Debug/net6.0/Operators.csproj.CoreCompileInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/Operators/bin/Debug/net6.0/Operators
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/Operators/bin/Debug/net6.0/Operators.deps.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/Operators/bin/Debug/net6.0/Operators.runtimeconfig.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/Operators/bin/Debug/net6.0/Operators.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/Operators/bin/Debug/net6.0/ref/Operators.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/Operators/bin/Debug/net6.0/Operators.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/Operators/obj/Debug/net6.0/Operators.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/Operators/obj/Debug/net6.0/ref/Operators.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/Operators/obj/Debug/net6.0/Operators.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/Operators/obj/Debug/net6.0/Operators.genruntimeconfig.cache
