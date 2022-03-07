@@ -198,3 +198,9 @@ One problem with `Parse` is that it gives errors if the `string` cannot be conve
 - To avoid errors, you can use the `TryParse` method instead. 
     - `TryParse` attempts to convert the input string and returns `true` if it can convert it and `false` if it cannot. 
     - The `out` keyword is required to allow the `TryParse` method to set the `count` variable when the conversion works. 
+
+## Catching all exceptions
+- To get information about any type of exception that might occur, you can declare a variable of type `System.Exception` to the `catch` block. 
+
+### Catching specific exceptions
+- Now that we know what exception occured we can improve our code by catching just that type of exception and customizing the message.
