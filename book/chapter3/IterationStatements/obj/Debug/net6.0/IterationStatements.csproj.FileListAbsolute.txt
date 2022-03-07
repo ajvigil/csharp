@@ -1,0 +1,15 @@
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/IterationStatements/bin/Debug/net6.0/IterationStatements
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/IterationStatements/bin/Debug/net6.0/IterationStatements.deps.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/IterationStatements/bin/Debug/net6.0/IterationStatements.runtimeconfig.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/IterationStatements/bin/Debug/net6.0/IterationStatements.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/IterationStatements/bin/Debug/net6.0/ref/IterationStatements.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/IterationStatements/bin/Debug/net6.0/IterationStatements.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/IterationStatements/obj/Debug/net6.0/IterationStatements.csproj.AssemblyReference.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/IterationStatements/obj/Debug/net6.0/IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/IterationStatements/obj/Debug/net6.0/IterationStatements.AssemblyInfoInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/IterationStatements/obj/Debug/net6.0/IterationStatements.AssemblyInfo.cs
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/IterationStatements/obj/Debug/net6.0/IterationStatements.csproj.CoreCompileInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/IterationStatements/obj/Debug/net6.0/IterationStatements.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/IterationStatements/obj/Debug/net6.0/ref/IterationStatements.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/IterationStatements/obj/Debug/net6.0/IterationStatements.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/IterationStatements/obj/Debug/net6.0/IterationStatements.genruntimeconfig.cache

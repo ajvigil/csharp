@@ -134,3 +134,37 @@ else
 ## Understanding iteration statements 
 > Iteration statements repeat a block of statemetns either while a condition is true or for each item in a collection. 
 - The choice of which statemetn to use is based on a combination of ease of understanding to solve the logic and problem and personal preference. 
+
+### Looping with the while statement 
+- The `while` statement evaluates a Boolean expression and continutes to loop while it is `true`
+
+### Looping with the do statement 
+- The `do` statement is like `while` except the Boolean expression is checked at the bottom of the block instead of the top. 
+    - This means that the block always executes at least once. 
+
+### Looping with the for statement 
+- The `for` statement is like `while` except that it is more succinct. It combines: 
+    - An **initializer expression**, which executes once at the start of the loop. 
+    - A **conditional expression**, which that executes on every iteration at the start of the loop to check whether the looping should continue. 
+    - An **iterator expression**, which that executes on every loop at the bottom of the statement. 
+
+### Looping with the foreach statement 
+> The `foreach` statement is different from the previous iteration statements. 
+- It is used to perform a block of statements on each item in a sequence
+    - Like an array or collection. 
+    - Each item is usually read-only, and if the sequence structure is modified during an iteration then an exception will be thrown. 
+
+### Understanding how foreach works internally 
+>Technically the `foreach` statement will work on any type that follows these rules:
+1. The type must have a method named `GetEnumerator` that returns an object. 
+2. The returned object must have a property named `Current` and a method named `MoveNext`. 
+3. The `MoveNext` method must return `true` if there are more items to enumerate through or `false` if there are no more items. 
+
+There are interfaces named `IEnumerable` and `IEnumerable<T>` that formally define these rules. 
+- But technically the compiler does not require the type to implement these interfaces. 
+
+## Casting and converting between types 
+- Converting is also known as **casting** and it has two varieties: 
+    - **implicit** and **explicit**
+        - Implicit casting happens automatically, and is safe (no info lost)
+        - Explicit casting must be performed manually because it may lose information. 
