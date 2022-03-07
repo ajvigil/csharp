@@ -1,0 +1,15 @@
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/SelectionStatements/bin/Debug/net6.0/SelectionStatements
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/SelectionStatements/bin/Debug/net6.0/SelectionStatements.deps.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/SelectionStatements/bin/Debug/net6.0/SelectionStatements.runtimeconfig.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/SelectionStatements/bin/Debug/net6.0/SelectionStatements.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/SelectionStatements/bin/Debug/net6.0/ref/SelectionStatements.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/SelectionStatements/bin/Debug/net6.0/SelectionStatements.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/SelectionStatements/obj/Debug/net6.0/SelectionStatements.csproj.AssemblyReference.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/SelectionStatements/obj/Debug/net6.0/SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/SelectionStatements/obj/Debug/net6.0/SelectionStatements.AssemblyInfoInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/SelectionStatements/obj/Debug/net6.0/SelectionStatements.AssemblyInfo.cs
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/SelectionStatements/obj/Debug/net6.0/SelectionStatements.csproj.CoreCompileInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/SelectionStatements/obj/Debug/net6.0/SelectionStatements.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/SelectionStatements/obj/Debug/net6.0/ref/SelectionStatements.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/SelectionStatements/obj/Debug/net6.0/SelectionStatements.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/SelectionStatements/obj/Debug/net6.0/SelectionStatements.genruntimeconfig.cache
