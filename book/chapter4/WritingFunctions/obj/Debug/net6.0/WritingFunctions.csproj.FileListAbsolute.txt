@@ -1,0 +1,15 @@
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/WritingFunctions/bin/Debug/net6.0/WritingFunctions
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/WritingFunctions/bin/Debug/net6.0/WritingFunctions.deps.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/WritingFunctions/bin/Debug/net6.0/WritingFunctions.runtimeconfig.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/WritingFunctions/bin/Debug/net6.0/WritingFunctions.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/WritingFunctions/bin/Debug/net6.0/ref/WritingFunctions.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/WritingFunctions/bin/Debug/net6.0/WritingFunctions.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/WritingFunctions/obj/Debug/net6.0/WritingFunctions.csproj.AssemblyReference.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/WritingFunctions/obj/Debug/net6.0/WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/WritingFunctions/obj/Debug/net6.0/WritingFunctions.AssemblyInfoInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/WritingFunctions/obj/Debug/net6.0/WritingFunctions.AssemblyInfo.cs
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/WritingFunctions/obj/Debug/net6.0/WritingFunctions.csproj.CoreCompileInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/WritingFunctions/obj/Debug/net6.0/WritingFunctions.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/WritingFunctions/obj/Debug/net6.0/ref/WritingFunctions.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/WritingFunctions/obj/Debug/net6.0/WritingFunctions.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/WritingFunctions/obj/Debug/net6.0/WritingFunctions.genruntimeconfig.cache
