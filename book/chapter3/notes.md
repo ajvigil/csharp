@@ -129,3 +129,8 @@ else
     - The `break` keyword (case 1 in switch folder code)
     - Or the `goto case` keywords (case 2 in switch folder code)
     - Or they should have no statements (case 3 in switch folder code)
+
+
+## Understanding iteration statements 
+> Iteration statements repeat a block of statemetns either while a condition is true or for each item in a collection. 
+- The choice of which statemetn to use is based on a combination of ease of understanding to solve the logic and problem and personal preference. 
