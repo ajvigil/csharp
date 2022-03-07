@@ -1,0 +1,15 @@
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/BitwiseAndShiftOperators/bin/Debug/net6.0/BitwiseAndShiftOperators
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/BitwiseAndShiftOperators/bin/Debug/net6.0/BitwiseAndShiftOperators.deps.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/BitwiseAndShiftOperators/bin/Debug/net6.0/BitwiseAndShiftOperators.runtimeconfig.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/BitwiseAndShiftOperators/bin/Debug/net6.0/BitwiseAndShiftOperators.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/BitwiseAndShiftOperators/bin/Debug/net6.0/ref/BitwiseAndShiftOperators.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/BitwiseAndShiftOperators/bin/Debug/net6.0/BitwiseAndShiftOperators.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/BitwiseAndShiftOperators/obj/Debug/net6.0/BitwiseAndShiftOperators.csproj.AssemblyReference.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/BitwiseAndShiftOperators/obj/Debug/net6.0/BitwiseAndShiftOperators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/BitwiseAndShiftOperators/obj/Debug/net6.0/BitwiseAndShiftOperators.AssemblyInfoInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/BitwiseAndShiftOperators/obj/Debug/net6.0/BitwiseAndShiftOperators.AssemblyInfo.cs
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/BitwiseAndShiftOperators/obj/Debug/net6.0/BitwiseAndShiftOperators.csproj.CoreCompileInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/BitwiseAndShiftOperators/obj/Debug/net6.0/BitwiseAndShiftOperators.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/BitwiseAndShiftOperators/obj/Debug/net6.0/ref/BitwiseAndShiftOperators.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/BitwiseAndShiftOperators/obj/Debug/net6.0/BitwiseAndShiftOperators.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/BitwiseAndShiftOperators/obj/Debug/net6.0/BitwiseAndShiftOperators.genruntimeconfig.cache
