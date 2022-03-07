@@ -168,3 +168,33 @@ There are interfaces named `IEnumerable` and `IEnumerable<T>` that formally defi
     - **implicit** and **explicit**
         - Implicit casting happens automatically, and is safe (no info lost)
         - Explicit casting must be performed manually because it may lose information. 
+
+One difference between casting and converting is that converting rounds the `double` value up instead of trimming the part after the decimal point. 
+
+### Rounding Rules 
+- It always rounds _down_ if the decimal part is less than the midpoint .5.
+- It always rounds _up_ if the decimal part is more than the midpoint .5. 
+- It will round _up_ if the decimal part is the midpoint .5 and the non-decimal part is odd. 
+- It will round _down_ if the non-decimal part is even.
+
+This rule is known as **Banker's Rounding** and it is preferred because it reduces bias by alternating when it rounds up for down. 
+
+## Converting from any type to a string
+> The `ToString` method converts the current value of any variable into a textual representation. 
+
+## Converting from a binary object to a string
+> When you have a binary object like an image or video that you want to store or transmit, you sometimes do not want to send the raw bits. 
+- The safest thing to do is to convert the binary object into a `string` of safe characters. 
+    - This is called **Base64** encoding. 
+
+The `Convert` type has a pair of methods, `ToBase64String` and `FromBase64String`, that perform this conversion for you. 
+
+### Parsing from strings to numbers or dates and times 
+>The second most common conversion is from strings to numbers or date and time values. 
+- The opposite of `ToString` is `Parse`.
+    - Only a few types have a `Parse` method, including all the number types and `DateTime`.
+
+One problem with `Parse` is that it gives errors if the `string` cannot be converted. 
+- To avoid errors, you can use the `TryParse` method instead. 
+    - `TryParse` attempts to convert the input string and returns `true` if it can convert it and `false` if it cannot. 
+    - The `out` keyword is required to allow the `TryParse` method to set the `count` variable when the conversion works. 

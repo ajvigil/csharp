@@ -1,0 +1,15 @@
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CastingConverting/obj/Debug/net6.0/CastingConverting.csproj.AssemblyReference.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CastingConverting/obj/Debug/net6.0/CastingConverting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CastingConverting/obj/Debug/net6.0/CastingConverting.AssemblyInfoInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CastingConverting/obj/Debug/net6.0/CastingConverting.AssemblyInfo.cs
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CastingConverting/obj/Debug/net6.0/CastingConverting.csproj.CoreCompileInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CastingConverting/bin/Debug/net6.0/CastingConverting
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CastingConverting/bin/Debug/net6.0/CastingConverting.deps.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CastingConverting/bin/Debug/net6.0/CastingConverting.runtimeconfig.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CastingConverting/bin/Debug/net6.0/CastingConverting.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CastingConverting/bin/Debug/net6.0/ref/CastingConverting.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CastingConverting/bin/Debug/net6.0/CastingConverting.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CastingConverting/obj/Debug/net6.0/CastingConverting.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CastingConverting/obj/Debug/net6.0/ref/CastingConverting.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CastingConverting/obj/Debug/net6.0/CastingConverting.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CastingConverting/obj/Debug/net6.0/CastingConverting.genruntimeconfig.cache
