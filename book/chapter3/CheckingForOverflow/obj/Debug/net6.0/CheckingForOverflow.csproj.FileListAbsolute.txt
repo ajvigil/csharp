@@ -1,0 +1,15 @@
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CheckingForOverflow/bin/Debug/net6.0/CheckingForOverflow
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CheckingForOverflow/bin/Debug/net6.0/CheckingForOverflow.deps.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CheckingForOverflow/bin/Debug/net6.0/CheckingForOverflow.runtimeconfig.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CheckingForOverflow/bin/Debug/net6.0/CheckingForOverflow.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CheckingForOverflow/bin/Debug/net6.0/ref/CheckingForOverflow.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CheckingForOverflow/bin/Debug/net6.0/CheckingForOverflow.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CheckingForOverflow/obj/Debug/net6.0/CheckingForOverflow.csproj.AssemblyReference.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CheckingForOverflow/obj/Debug/net6.0/CheckingForOverflow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CheckingForOverflow/obj/Debug/net6.0/CheckingForOverflow.AssemblyInfoInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CheckingForOverflow/obj/Debug/net6.0/CheckingForOverflow.AssemblyInfo.cs
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CheckingForOverflow/obj/Debug/net6.0/CheckingForOverflow.csproj.CoreCompileInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CheckingForOverflow/obj/Debug/net6.0/CheckingForOverflow.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CheckingForOverflow/obj/Debug/net6.0/ref/CheckingForOverflow.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CheckingForOverflow/obj/Debug/net6.0/CheckingForOverflow.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter3/CheckingForOverflow/obj/Debug/net6.0/CheckingForOverflow.genruntimeconfig.cache
