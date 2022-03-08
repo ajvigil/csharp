@@ -39,3 +39,12 @@
     - Example: You can ask a question such as, "What is 1+2?" by typing 1+2 and pressing _Enter_. 
 - You can also interrogate the program state. 
     - Example: By entering the name of a variable. 
+
+## Logging during development and runtime 
+>There are two types that can be used to add simple logging to your code: `Debug` and `Trace`.
+- `Debug` is used to add logging that gets written during development. 
+- `Trace` is used to add logging that gets written during both development and runtime. 
+
+The `Debug` and `Trace` classes can write to any **trace listener**. 
+- A trace listener is a type that can be configured to write output anywhere you like when the `Trace.WriteLine` method is called. 
+
