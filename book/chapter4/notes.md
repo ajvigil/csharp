@@ -50,3 +50,10 @@ The `Debug` and `Trace` classes can write to any **trace listener**.
 
 ## Unit testing functions 
 > Unit testing is a good way to find bugs early in the development process. 
+
+### Writing unit tests 
+A well-written unit test will have three parts: 
+- **Arrange**: This part will declare and instantiate variables for input and output. 
+- **Act**: This part will execute the unit that you are testing. 
+- **Assert**: This part will make one or more assertions about the output. 
+    - An assertion is a belief that if not true indicates a failed test. 

@@ -1,0 +1,12 @@
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/CalculatorLib/obj/Debug/net6.0/CalculatorLib.csproj.AssemblyReference.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/CalculatorLib/obj/Debug/net6.0/CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/CalculatorLib/obj/Debug/net6.0/CalculatorLib.AssemblyInfoInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/CalculatorLib/obj/Debug/net6.0/CalculatorLib.AssemblyInfo.cs
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/CalculatorLib/obj/Debug/net6.0/CalculatorLib.csproj.CoreCompileInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/CalculatorLib/bin/Debug/net6.0/CalculatorLib.deps.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/CalculatorLib/bin/Debug/net6.0/CalculatorLib.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/CalculatorLib/bin/Debug/net6.0/ref/CalculatorLib.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/CalculatorLib/bin/Debug/net6.0/CalculatorLib.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/CalculatorLib/obj/Debug/net6.0/CalculatorLib.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/CalculatorLib/obj/Debug/net6.0/ref/CalculatorLib.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/CalculatorLib/obj/Debug/net6.0/CalculatorLib.pdb
