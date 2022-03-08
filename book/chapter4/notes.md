@@ -57,3 +57,7 @@ A well-written unit test will have three parts:
 - **Act**: This part will execute the unit that you are testing. 
 - **Assert**: This part will make one or more assertions about the output. 
     - An assertion is a belief that if not true indicates a failed test. 
+
+### End of Chapter Exercise 
+- The `void` keyword is used in method signatures to declare a method that does not return a value. 
+    - A method declared with the void return type cannot provide any arguments to any return statements they contain. 
