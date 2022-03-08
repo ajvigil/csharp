@@ -24,3 +24,18 @@
     - A nested `switch` statement then handles all other cases.
     - The `RunCardinalToOrdinal` function for each number and writing the returned string to the console, separated by a space character. 
 
+## Debugging Windows
+### Variables 
+- Including **Locals**, which shows the name, value, and type for any local variables automatically. 
+    - Keep an eye on this window while you step through your code. 
+### Watch 
+- Shows the value of variables and expressions that you manually enter. 
+### Call Stack 
+- Shows the stack of function calls. 
+### Breakpoints
+- Shows all your breakpoints and allows finer control over them. 
+### Debug Console 
+- Enables live interaction with your code. 
+    - Example: You can ask a question such as, "What is 1+2?" by typing 1+2 and pressing _Enter_. 
+- You can also interrogate the program state. 
+    - Example: By entering the name of a variable. 

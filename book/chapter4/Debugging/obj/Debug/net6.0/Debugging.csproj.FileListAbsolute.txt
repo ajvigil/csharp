@@ -1,0 +1,15 @@
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/Debugging/bin/Debug/net6.0/Debugging
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/Debugging/bin/Debug/net6.0/Debugging.deps.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/Debugging/bin/Debug/net6.0/Debugging.runtimeconfig.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/Debugging/bin/Debug/net6.0/Debugging.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/Debugging/bin/Debug/net6.0/ref/Debugging.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/Debugging/bin/Debug/net6.0/Debugging.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/Debugging/obj/Debug/net6.0/Debugging.csproj.AssemblyReference.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/Debugging/obj/Debug/net6.0/Debugging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/Debugging/obj/Debug/net6.0/Debugging.AssemblyInfoInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/Debugging/obj/Debug/net6.0/Debugging.AssemblyInfo.cs
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/Debugging/obj/Debug/net6.0/Debugging.csproj.CoreCompileInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/Debugging/obj/Debug/net6.0/Debugging.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/Debugging/obj/Debug/net6.0/ref/Debugging.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/Debugging/obj/Debug/net6.0/Debugging.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter4/Debugging/obj/Debug/net6.0/Debugging.genruntimeconfig.cache

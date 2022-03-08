@@ -1,0 +1,15 @@
+/Users/ajvigil/Desktop/code/csharp/book/chapter1/HelloCS/bin/Debug/net6.0/csharp
+/Users/ajvigil/Desktop/code/csharp/book/chapter1/HelloCS/bin/Debug/net6.0/csharp.deps.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter1/HelloCS/bin/Debug/net6.0/csharp.runtimeconfig.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter1/HelloCS/bin/Debug/net6.0/csharp.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter1/HelloCS/bin/Debug/net6.0/ref/csharp.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter1/HelloCS/bin/Debug/net6.0/csharp.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter1/HelloCS/obj/Debug/net6.0/csharp.csproj.AssemblyReference.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter1/HelloCS/obj/Debug/net6.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajvigil/Desktop/code/csharp/book/chapter1/HelloCS/obj/Debug/net6.0/csharp.AssemblyInfoInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter1/HelloCS/obj/Debug/net6.0/csharp.AssemblyInfo.cs
+/Users/ajvigil/Desktop/code/csharp/book/chapter1/HelloCS/obj/Debug/net6.0/csharp.csproj.CoreCompileInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter1/HelloCS/obj/Debug/net6.0/csharp.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter1/HelloCS/obj/Debug/net6.0/ref/csharp.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter1/HelloCS/obj/Debug/net6.0/csharp.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter1/HelloCS/obj/Debug/net6.0/csharp.genruntimeconfig.cache
