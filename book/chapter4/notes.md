@@ -48,3 +48,5 @@
 The `Debug` and `Trace` classes can write to any **trace listener**. 
 - A trace listener is a type that can be configured to write output anywhere you like when the `Trace.WriteLine` method is called. 
 
+## Unit testing functions 
+> Unit testing is a good way to find bugs early in the development process. 
