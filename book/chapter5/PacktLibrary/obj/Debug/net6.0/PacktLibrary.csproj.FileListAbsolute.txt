@@ -1,0 +1,12 @@
+/Users/ajvigil/Desktop/code/csharp/book/chapter5/PacktLibrary/bin/Debug/net6.0/PacktLibrary.deps.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter5/PacktLibrary/bin/Debug/net6.0/PacktLibrary.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter5/PacktLibrary/bin/Debug/net6.0/ref/PacktLibrary.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter5/PacktLibrary/bin/Debug/net6.0/PacktLibrary.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter5/PacktLibrary/obj/Debug/net6.0/PacktLibrary.csproj.AssemblyReference.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter5/PacktLibrary/obj/Debug/net6.0/PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajvigil/Desktop/code/csharp/book/chapter5/PacktLibrary/obj/Debug/net6.0/PacktLibrary.AssemblyInfoInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter5/PacktLibrary/obj/Debug/net6.0/PacktLibrary.AssemblyInfo.cs
+/Users/ajvigil/Desktop/code/csharp/book/chapter5/PacktLibrary/obj/Debug/net6.0/PacktLibrary.csproj.CoreCompileInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter5/PacktLibrary/obj/Debug/net6.0/PacktLibrary.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter5/PacktLibrary/obj/Debug/net6.0/ref/PacktLibrary.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter5/PacktLibrary/obj/Debug/net6.0/PacktLibrary.pdb
