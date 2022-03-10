@@ -35,3 +35,28 @@ We might want two instances of `Person` to be able to procreate. We can implemen
 
 ### Good Practice 
 > A method that creats a new object, or modifies an existing object, should return a reference to that object so that the caller can see the results. 
+
+--- 
+---
+## Implementing functionality using operators 
+The `System.String` class has a static method named `Concat` that concatenates two `string` values and returns the result. 
+
+```cs 
+string s1 = "Hello ";
+string s2 = "World!";
+string s3 = string.Concat(s1, s2);
+WriteLine(s3); // => Hello World!
+```
+
+Calling a method like Concat works, but it might be more natural for a programmer to use the + symbol to add two string values together.
+
+```cs
+string s1 = "Hello ";
+string s2 = "World!";
+string s3 = s1 + s2;
+WriteLine(s3); // => Hello World!
+```
+
+> ### Good practice: 
+> - Unlike methods, operators do not appear in IntelliSense lists for a type. 
+> - For every operator you define, make a method as well, because it may not be obvious to a programmer that the operator is available. 

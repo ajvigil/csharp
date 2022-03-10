@@ -18,6 +18,9 @@ namespace PeopleApp
             // call static method 
             var baby2 = Person.Procreate(hermione, cho);
 
+            // call an operator 
+            var baby3 = hermione * ginny;
+
             WriteLine($"{hermione.Name} has {hermione.Children.Count} children.");
             WriteLine($"{ginny.Name} has {ginny.Children.Count} children.");
             WriteLine($"{cho.Name} has {cho.Children.Count} children");
