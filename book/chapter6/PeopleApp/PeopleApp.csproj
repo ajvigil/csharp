@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference
+      Include="..\PacktLibrary\PacktLibrary.csproj"/>
+  </ItemGroup>
+
 </Project>
