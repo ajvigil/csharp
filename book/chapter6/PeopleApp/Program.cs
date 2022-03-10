@@ -40,6 +40,37 @@ namespace PeopleApp
             hermione.Poke();
             hermione.Poke();
             hermione.Poke();
+
+            // comparing objects when sorting
+            Person[] people = 
+            {
+                new Person { Name = "Snape" }, 
+                new Person { Name = "Voldemort" }, 
+                new Person { Name = "Bellatrix" }, 
+                new Person { Name = "Umbridge" }
+            };
+
+            WriteLine("Initial list of people:");
+            foreach (var person in people)
+            {
+                WriteLine($"{person.Name}");
+            }
+            
+            WriteLine("Use Person's IComparable implementation to sort:");
+            Array.Sort(people);
+            foreach (var person in people)
+            {
+                WriteLine($"{person.Name}");
+            }
+            
+            // comparing objects using a separate class
+            WriteLine("Use PersonsComparer's IComparer implementation to sort:");
+            Array.Sort(people, new PersonComparer());
+            foreach (var person in people)
+            {
+                WriteLine($"{person.Name}");
+            }
+
         }
         private static void Hermione_Shout(object sender, EventArgs e)
         {

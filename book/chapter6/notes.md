@@ -100,3 +100,23 @@ public delegate void EventHandler(
 public delegate void EventHandler<TEventArgs>(
     object sender, TEventArgs e);
 ```
+---
+---
+## Implementing interfaces 
+
+Interfaces are a way of connecting different types together to make new things. 
+> Think of them like the studs on top of LEGOs which allow them to "stick" together. 
+
+### Common interfaces 
+
+| Interface | Method(s) | Description |
+| --------- | --------- | ----------- |
+| **IComparable** | `CompareTo(other)` | This defines a comparasion method that a type implements to order or sort its instances. |
+| **IComparer** | `Compare(first, second)` | This defines a comparasion method that a secondary type implements to order or sort instances of a primary type. |
+| **IDisposable** | `Dispose()` | This defines a disposl method to release unmanaged resources more efficiently than waiting for a finalizer. |
+| **IFormattable** | `ToString(format, culture)` | This defines a culture-aware method to format the value of an object into a string representation. |
+| **IFormatter** | `Serialize(stream, object)` and `Deserialize(stream)` | This defines methods to convert an object to and from a stream of bytes for storage or transfer. |
+| **IFormatProvider** | `GetFormat(type)` | This defines a method to format inputs based on a language and region. |
+
+One of the most common is `IComparable`
+- It allows arrays and collections of any type that implements it to be stored. 
