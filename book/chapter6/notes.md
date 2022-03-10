@@ -60,3 +60,12 @@ WriteLine(s3); // => Hello World!
 > ### Good practice: 
 > - Unlike methods, operators do not appear in IntelliSense lists for a type. 
 > - For every operator you define, make a method as well, because it may not be obvious to a programmer that the operator is available. 
+
+---
+---
+## Implementing functionality using local functions 
+
+Local functions are the method equivalent of local variables. 
+- They are methods that are only accessible from within the containing method in which they have been defined. 
+- In other languages, they are sometimes called **nested** or **inner functions**. 
+> Local functions can be defined anywhere inside a method. 
