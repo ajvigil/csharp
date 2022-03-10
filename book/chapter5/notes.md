@@ -125,4 +125,37 @@ Use read-only files over the `const` fields for two important reasons:
 - The value can be calculated or loaded at runtime and can be expressed using any executable statement. 
     - A read-only field can be set using a constructor or a field assignment. Every reference to the field is a live reference, so any future changes will be correctly reflected by calling code. 
 
-## Initializing fields with constructors
+## Writing and calling methods 
+> **Methods** are members of a type that execute a block of statements. 
+
+- Methods can return a single value or return nothing. 
+    - A method that performs some actions but does not return a value indicatees this with the `void` type before the name of the method. 
+    - A method that performs some actions and returns a value indicates this with the type of the retrun value before the name of the method. 
+
+## Combining multiple returned values using tuples
+> Each method can only return a single calue that has a single type. 
+> - That type could be a simple type, such as `string` or a complex type, such as `Person`, or a collection type, such as `List<Person>`.
+
+## Defining and passing parameters to methods 
+> Methods can have parameters passed to them to change their behavior. 
+> - Parameters are defined a bit like variable declarations, but inside the parentheses of the method. 
+
+Another way to simplify methods is to make parameters optional. 
+- You make a parameter optional by assigning a default value inside the method parameter list. 
+- Optional parameters must always come last in the list of parameters. 
+
+## Controlling how parameters are passed 
+When a parameter is passed into a method, it can be passed one of three ways:
+- By **value** (this is the default): Think of these as being _in-only_.
+- By **reference** as a `ref` parameter: Think of these as being _in-and-out_.
+- AS an `out` parameter: Think of these as being _out-only_.
+
+## Controlling access with properties and indexers
+> A **property** is simply a method (or a pair of methods) that acts and looks like a field when you want to get or set a value, thereby simplifying the syntax. 
+
+A `readonly` property only has a `get` implementation. 
+
+## Defining indexers 
+> Indexers allow the calling code to use the array syntax to access a property. 
+- Example: 
+    - The `string` type defines an **indexer** so that the calling code can access individual characters in the `string` individually. 

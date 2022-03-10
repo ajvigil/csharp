@@ -108,6 +108,99 @@ namespace PeopleApp
                 arg1: blankPerson.HomePlanet,
                 arg2: blankPerson.Instantiated);
 
+            var gunny = new Person("Gunny", "Mars");
+
+            WriteLine(format:
+                "{0} of {1} was created at {2:hh:mm:ss} on a {2:dddd}.",
+                arg0: gunny.Name,
+                arg1: gunny.HomePlanet,
+                arg2: gunny.Instantiated);
+
+            // Returning values from methods 
+
+            bob.WriteToConsole();
+            WriteLine(bob.GetOrigin());
+
+            // Combining multiple returned values using tuples 
+
+            (string, int) fruit = bob.GetFruit();
+            WriteLine($"{fruit.Item1}, {fruit.Item2} there are.");
+
+            // Naming the fields of a tuple 
+            var fruitNamed = bob.GetNamedFruit();
+            WriteLine($"There are {fruitNamed.Number} {fruitNamed.Name}.");
+
+            // Inferring tuple names 
+            var thing1 = ("Neville", 4);
+            WriteLine($"{thing1.Item1} has {thing1.Item2} children.");
+
+            var thing2 = (bob.Name, bob.Children.Count);
+            WriteLine($"{thing2.Name} has {thing2.Count} children.");
+
+            // Deconstructing tuples
+            (string fruitName, int fruitNumber) = bob.GetFruit();
+            WriteLine($"Deconstructed: {fruitName}, {fruitNumber}");
+
+            // Defining and passing parameters to methods
+            WriteLine(bob.SayHello());
+            WriteLine(bob.SayHelloTo("Emily"));
+
+            // Passing optional parameters and naming arguments 
+            WriteLine(bob.OptionalParameters());
+            WriteLine(bob.OptionalParameters("Jump!", 98.5));
+            WriteLine(bob.OptionalParameters(
+                number: 52.7, command: "Hide!"));
+            WriteLine(bob.OptionalParameters("Poke!", active: false));
+
+            // Controlling how parameters are passed 
+            int a = 10;
+            int b = 20;
+            int c = 30;
+
+            WriteLine($"Before: a = {a}, b = {b}, c = {c}");
+            bob.PassingParameters(a, ref b, out c);
+            WriteLine($"After: a = {a}, b = {b}, c = {c}");
+
+            int d = 10;
+            int e = 20;
+
+            WriteLine(
+                $"Before: d = {d}, e = {e}, f doesn't exist yet!");
+            
+            // simplified C# 7 syntax for the out parameter
+            bob.PassingParameters(d, ref e, out int f);
+
+            WriteLine($"After: d = {d}, e = {e}, f = {f}");
+
+            // defining read-only properties 
+            var sam = new Person 
+            {
+                Name = "Sam",
+                DateOfBirth = new DateTime(2003, 5, 24)
+            };
+
+            WriteLine(sam.Origin);
+            WriteLine(sam.Greeting);
+            WriteLine(sam.Age);
+
+            sam.FavoriteIceCream = "Chocolate Fudge";
+            
+            WriteLine($"Sam's favorite ice-cream flavor is {sam.FavoriteIceCream}.");
+
+            sam.FavoritePrimaryColor = "Red";
+
+            WriteLine($"Sam's favorite primary color is {sam.FavoritePrimaryColor}.");
+
+            // defining indexers
+
+            sam.Children.Add(new Person { Name = "Charlie" });
+            sam.Children.Add(new Person { Name = "Ella" });
+
+            WriteLine($"Sam's first child is {sam.Children[0].Name}");
+            WriteLine($"Sam's second child is {sam.Children[1].Name}");
+            WriteLine($"Sam's first child is {sam[0].Name}");
+            WriteLine($"Sam's second child is {sam[1].Name}");
+
 
         }
     }
