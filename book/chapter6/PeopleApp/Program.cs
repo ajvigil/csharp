@@ -32,6 +32,19 @@ namespace PeopleApp
             
             // Implementing functionality using local functions
             WriteLine($"5! is {Person.Factorial(5)}");
+
+            // raising and handling events 
+            hermione.Shout += Hermione_Shout;
+
+            hermione.Poke();
+            hermione.Poke();
+            hermione.Poke();
+            hermione.Poke();
+        }
+        private static void Hermione_Shout(object sender, EventArgs e)
+        {
+            Person p = (Person)sender;
+            WriteLine($"{p.Name} is this angry: {p.AngerLevel}.");
         }
     }
 }

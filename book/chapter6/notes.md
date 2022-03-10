@@ -69,3 +69,34 @@ Local functions are the method equivalent of local variables.
 - They are methods that are only accessible from within the containing method in which they have been defined. 
 - In other languages, they are sometimes called **nested** or **inner functions**. 
 > Local functions can be defined anywhere inside a method. 
+
+---
+---
+## Raising and handling events 
+
+**Methods** are often described as _actions that an object can perform, either on itself or to related objects_. 
+- Example: `List` can add an item to itself or clear itself, and `File` can create or delete a file in the filesystem. 
+
+**Events** are often described as _actions that happen to an object_. 
+- Example: in a UI, `Button` has a `Click` event, click being something that happens to a button. 
+- Another way of thinking of events is that they provide a way of exchanging messages between two objects. 
+
+--- 
+## Calling methods using delegates 
+
+The other way to call or execute a method is to use a **delegate**. 
+- A delegate contains the memory address of a method that matches the same signature as the delegate so that it can be called safely with the correct parameter types. 
+
+We would use delegates to create a queue of methods that need to be called in order. 
+
+Another example is to allow multiple actions to perform in parallel. 
+- Delegates have built-in support for asynchronous operations that run on a different threa, and that can provide improved responsiveness. 
+
+> Microsoft has two predefined delegates for use as events. Their signatures are simple, yet flexible. 
+```cs 
+public delegate void EventHandler(
+    object sender, EventArgs e);
+
+public delegate void EventHandler<TEventArgs>(
+    object sender, TEventArgs e);
+```

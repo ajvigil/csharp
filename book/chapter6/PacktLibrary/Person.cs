@@ -53,6 +53,26 @@ namespace Packt.Shared
             {
                 if (localNumber < 1) return 1;
                 return localNumber * localFactorial(localNumber - 1);
+            } 
+        }
+        // event delegate field 
+        public event EventHandler Shout;
+
+        // data field 
+        public int AngerLevel;
+
+        // method 
+        public void Poke()
+        {
+            AngerLevel++;
+            if (AngerLevel >= 3)
+            {
+                // if something is listening...
+                if (Shout !=null)
+                {
+                    //...then call the delegate
+                    Shout(this, EventArgs.Empty);
+                }
             }
         }
     }
