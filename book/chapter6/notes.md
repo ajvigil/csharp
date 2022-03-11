@@ -120,3 +120,25 @@ Interfaces are a way of connecting different types together to make new things.
 
 One of the most common is `IComparable`
 - It allows arrays and collections of any type that implements it to be stored. 
+---
+---
+## Managing memory with reference and value types 
+There are two categories of memory: **stack** memory and **heap** memory. 
+- Stack memory is faster to work with. 
+    - Managed directly by the CPU and because it uses a first-in, first-out mechanism, it is more likely to have the data in its L1 or L2 cache).
+- Heap memory is slower but much more plentiful. 
+
+When you define a type using `class`, you are defining a **reference type**. 
+- This means that the memory for the object itself is allocated on the heap, and only the memory address of the object (and  a little overhead) is stored on the stack. 
+
+When you define a a type using `struct`, you are defining a **value type**. 
+- This means that the memory for the object itself is allocated on the stack. 
+> If a `struct` uses field types that are not of the `struct` type, then those fields will be stored on the heap, meaning the data for that object is stored in both the stack and the heap. 
+
+Common `struct` types:
+- **Numbers**
+    - byte, sbyte, short, ushort, int, uint, long, ulong, float, double, and decimal. 
+- **Micellaneous**
+    - char and bool
+- **System.Drawing**
+    - Color, Point, and Rectangle
