@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "dI0XLw9hEskcjv+0mQMurh6Eyguxfw1rhjJVVHRsB5AfRXskEWOFl3U61zwxW4gtKfUU8FqhME5Tby8YCmxDhA==",
+  "dgSpecHash": "4+PHf0s/j7qx2LcCex8DJOwg9fXuTc9ghmGtgkBLUZOpSHfX84TxeMz6VFIGmZH2ZJZy+MOWcF1loH2zA6YE/g==",
   "success": true,
   "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter7/SharedLibrary/SharedLibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/ajvigil/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/ajvigil/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

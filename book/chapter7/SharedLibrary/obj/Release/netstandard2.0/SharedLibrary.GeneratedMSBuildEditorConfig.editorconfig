@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SharedLibrary
+build_property.ProjectDir = /Users/ajvigil/Desktop/code/csharp/book/chapter7/SharedLibrary/
