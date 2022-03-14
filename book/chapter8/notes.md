@@ -8,3 +8,13 @@
 | **System** | `Single`, `Double` | Reals; floating point numbers. |
 | **System** | `Decimal` | Accurate reals; for use in science, engineering, or financial scenarios. |
 | **System.Numerics** | `BitInteger`, `Complex`, `Quaternion` | Arbitrarily large inegers, complex numbers, and quaternion numbers. |
+
+## Working with text
+
+| Namespace | Type | Description |
+| --------- | ---- | ----------- |
+| **System** | `Char` | Storage for a single text character. |
+| **System** | `String` | Storage for multiple text characters. |
+| **System.Text** | `StringBuilder` | Efficiently manipulates strings. |
+| **System.Text.RegularExpressions** | `Regex` | Efficiently pattern-matches strings. |
+
