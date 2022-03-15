@@ -117,3 +117,7 @@ A **collection** is a data structure in memory that can manage multiple items in
 
 **Sets** are a good choice when you want to perform set operations between two collections. 
 
+## Sorting collections 
+
+A `List<T>` class can be sorted by manually callling its `Sort` method (but remember that the indexes of each item will change).
+- Manually sorting a list of `string` values or other built-in types will work without exta effort on your part, but if you create a collection of your own type, then that type must implement an interface named `IComparable`.
