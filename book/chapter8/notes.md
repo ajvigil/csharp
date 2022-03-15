@@ -45,3 +45,75 @@ Sometimes you need to check whether a piece of text starts or ends with some cha
 | `string.Format` | An older, alternative method to string interpolation to output formatted `string` variables, which uses positioned instead of named parameters. |
 
 Some methods are `static` methods. This means that the method can only be called from the type, not from a variable instance. 
+
+## Understanding the syntax of a regular expression
+Here are some common regular expressions **symbols** that you can use in regular expressions:
+
+| Symbol | Meaning | Symbol | Meaning |
+| ------ | ------- | ------ | ------- |
+| ^ | Start of input | $ | End of input |
+| \d | A single digit | \D | A single NON-digit |
+| \w | Whitespace | \W | NON-whitespace |
+| [A-Za-z0-9] | Range(s) of characters | \^ | ^(caret) character |
+| [aeiou] | Set of characters | [^aeiou] | NOT in a set of characters |
+| . | Any single character | \\. | .(dot) character |
+
+In addition, here are some regular expression **quantifiers** that affect previous symbols in a regular expression:
+
+| Symbol | Meaning | Symbol | Meaning |
+| ------ | ------- | ------ | ------- |
+| + | One or more | ? | One or more |
+| {3} | Exactly three | {3, 5} | Three to five |
+| {3,} | At least three | {, 3} | Up to three |
+
+## Examples of regular expressions
+
+| Expression | Meaning | 
+| ---------- | ------- |
+| \d | A single digit somewhere in the input |
+| a| The character `a` somewhere in the input |
+| Bob | The word `Bob` somewhere in the input | 
+| ^Bob | The word `Bob` at the start of the input |
+| Bob$ | The word `Bob` at the end of the input |
+| ^\d{2}$ | Exactly two digits |
+| ^[0-9]{2}$ | Exactly two digits |
+| ^[A-Z]{4, }$ | At least four uppercase English letters in the ASCII character set only |
+| ^[A-Za-z]{4, }$ | At least four upper or lowercase English letters in the ASCII character set only |
+| ^[A-Z]{2}\d{3}$ | Two uppercase English letters in the ASCII character set and three digits only |
+| ^[A-Za-z\u00c0-\u017e]+$ | At least one uppercase or lowercase English letter in the ASCII character set or European letters in the Unicode set. |
+| ^d.g$ | The letter `d`, then any character, and then the letter `g`, so it would match both `dig` and `dog` or any single character between the `d` and `g` |
+| ^d\\.g$ | The letter `d`, then a dot (.), then the letter `g`, so it would match d.g only |
+
+> **Good Practice**: Use regular expressions to validate input from the user.
+> - The same regular expressions can be reused in other languages such as JavaScript.
+
+## Storing multiple objects in collections
+
+A **collection** is a data structure in memory that can manage multiple items in different ways, although all collections have some shared functionality.
+
+| Namespace | Example type(s) | Description |
+| --------- | --------------- | ----------- | 
+| System.Collections | `IEnumerable`, `IEnumberable<T>` | Interfaces and base classes used by collections. |
+| System.Collections.Generic | `List<T>`, `Dictionary<T>`, `Queue<T>`, `Stack<T>` | Introduced in C# with .NET Framework 2.0. These collections allow you to specify the type you want to store using a generic type parameter (which is safer, faster, and more efficient). |
+| System.Collections.Concurent | `BlockingCollection`, `ConcurrentDictionary`, `ConcurrentQueue` | These collections are safe to use in multithreaded scenarios. |
+| System.Collections.Immutable | `ImmutableArray`, `ImmutableDictionary`, `ImmutableList`, `ImmutableQueue` | Designed for scenarios where the contents of the original collection never change, although they can create modified collections as a new instance. | 
+
+
+## Understanding collection choices 
+
+**Lists** are a good choice when you want to manually control the order of items in a collection.
+- Each item in a list has a unique index (or position) that is automatically assigned. 
+- Items can be any type defined by `T` and items can be duplicated. 
+- Indexes are `int` types and start from 0. 
+
+**Dictionaries** are a good choice when each value (or object) has a unique sub value (or a made-up value) that can be used as a _key_ to quickly find the value in the collection later.
+- The key must be unique. 
+
+**Stacks** are a good choice when you want to implement the _last-in, first-out (LIFO)_ behavior.
+- With a stack, you can only directly access or remove the one item at the top of the stack, although you can enumerate to read through the whole stack of items. 
+
+**Queues** are a good choice when you want to implement the _first-in, first-out (FIFO)_ behavior.
+- With a queue, you can only directly access or remove the one item at the front of the queue.
+
+**Sets** are a good choice when you want to perform set operations between two collections. 
+
