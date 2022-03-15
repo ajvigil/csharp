@@ -121,3 +121,16 @@ A **collection** is a data structure in memory that can manage multiple items in
 
 A `List<T>` class can be sorted by manually callling its `Sort` method (but remember that the indexes of each item will change).
 - Manually sorting a list of `string` values or other built-in types will work without exta effort on your part, but if you create a collection of your own type, then that type must implement an interface named `IComparable`.
+
+## Working with network resources
+
+| Namespace | Example type(s) | Description |
+| --------- | --------------- | ----------- |
+| System.Net | `Dns`, `Uri`, `Cookie`, `WebClient`, `IPAddress` | These are for working with DNS servers, URLs, IP addresses, and so on. |
+| System.Net | `FtpStatusCode`, `FtpWebRequest`, `FtpWebResponse` | These are for working with FTP servers. |
+| System.Net | `HttpStatusCode`, `HttpWebRequest`, `HttpWebResponse` | These are for working with HTTP servers; websites and services. Types from System.Net.Http are easier to use. |
+| System.Net.Http | `HttpClient`, `HttpMethod`, `HttpRequestMessage`, `HttpResponseMessage` | These are for working with HTTP servers; websites and services. |
+| System.Net.Mail | `Attachment`, `MailAddress`, `MailMessage`, `StmpClient` | These are for working with STMP servers; sending email messages. |
+| System.Net.NetworkInformation | `IPStatus`, `NetworkingChange`, `Ping`, `TcpStatistics` | These are for working with low-level network protocals. |
+
+
