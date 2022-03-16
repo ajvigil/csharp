@@ -134,3 +134,38 @@ A `List<T>` class can be sorted by manually callling its `Sort` method (but reme
 | System.Net.NetworkInformation | `IPStatus`, `NetworkingChange`, `Ping`, `TcpStatistics` | These are for working with low-level network protocals. |
 
 
+## Working with types and attributes 
+
+**Reflection** is a programming feature that allows code to understand and manipulate itself.
+
+
+An assembly is made up of up to four parts:
+- **Assembly metadata and manifest**: 
+    - Name, assembly, and file version, referenced assemblies, and so on.
+- **Type metadata**:
+    - Information about types, their members, and so on. 
+- **IL code**:
+    - Implementation of methods, properties, constructors, and so on.
+- **Embedded Resources (optional)**:
+    - Images, strings, JavaScript, and so on.
+
+> The metadata comprises items of information about your code. The metadata is applied to your code using attributes. 
+
+- Attributes can be applied at multiple levels:
+    - to assemblies, to types, and to their members. 
+
+```cs
+// an assembly-level attribute
+[assembly: AssemblyTitle("Working with Reflection")]
+
+// a type-level attribute
+[Sterializable]
+public class Person
+
+    //  a member-level attribute
+    [Obsolete("Deprecated: use Run instead.")]
+    public void Walk()
+    {
+        //...
+    }
+```
