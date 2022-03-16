@@ -1,0 +1,15 @@
+/Users/ajvigil/Desktop/code/csharp/book/chapter8/Internationalization/bin/Debug/net6.0/Internationalization
+/Users/ajvigil/Desktop/code/csharp/book/chapter8/Internationalization/bin/Debug/net6.0/Internationalization.deps.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter8/Internationalization/bin/Debug/net6.0/Internationalization.runtimeconfig.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter8/Internationalization/bin/Debug/net6.0/Internationalization.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter8/Internationalization/bin/Debug/net6.0/ref/Internationalization.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter8/Internationalization/bin/Debug/net6.0/Internationalization.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter8/Internationalization/obj/Debug/net6.0/Internationalization.csproj.AssemblyReference.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter8/Internationalization/obj/Debug/net6.0/Internationalization.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajvigil/Desktop/code/csharp/book/chapter8/Internationalization/obj/Debug/net6.0/Internationalization.AssemblyInfoInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter8/Internationalization/obj/Debug/net6.0/Internationalization.AssemblyInfo.cs
+/Users/ajvigil/Desktop/code/csharp/book/chapter8/Internationalization/obj/Debug/net6.0/Internationalization.csproj.CoreCompileInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter8/Internationalization/obj/Debug/net6.0/Internationalization.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter8/Internationalization/obj/Debug/net6.0/ref/Internationalization.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter8/Internationalization/obj/Debug/net6.0/Internationalization.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter8/Internationalization/obj/Debug/net6.0/Internationalization.genruntimeconfig.cache

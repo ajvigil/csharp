@@ -169,3 +169,14 @@ public class Person
         //...
     }
 ```
+
+## Internationalizing your code 
+
+**Internationalization** is the process of enabling your code to run correctly all over the world.
+- It has two parts: **globalization** and **localization**.
+
+Globalization is about writing your code to accommodate multiple languages and region combinations.
+- The combination of a language and a region is known as a culture.
+- There are **International Organization for Standardization (ISO)** codes for all culture combinations.
+
+Localization is about customizing the user interface to support a language.
