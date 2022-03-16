@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2AJYNoS1whqQ18KNws3RAtCFgUkshEhAwEs0dhWasMiOFwvTuaUiYi9cXKqL6kqhQMPvLRrX39sHZ+wCWt53kQ==",
+  "dgSpecHash": "F9NLHhqt4I7H/0qL+yz6B8T5JhkZaxxScMi9ZYB3Bo66J4dkrR3gooLIpyyLXklfwCUOF0b0Onr2SovzuQVNug==",
   "success": true,
-  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter2/Arguments/Arguments.csproj",
+  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter02/Arguments/Arguments.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "JJXgGtN4NSRWHzM9sLG3fxHWSJSgBNQvPiS0f9u38ZczvauctTwPrOb0NrKNWE02+7Y4mEBgv6hnxkMXvVZ7rQ==",
+  "dgSpecHash": "XO8+ZXkVE5dlVMh+kWISWLoyyj+TgPmHhU8xsavp7oanEqtVH+LK/n+A2l4kdlBo5zQ7UuAo8JMy/qKosBOamA==",
   "success": true,
-  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter8/WorkingWithReflection/WorkingWithReflection.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter08/WorkingWithReflection/WorkingWithReflection.csproj",
+  "expectedPackageFiles": [
+    "/Users/ajvigil/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/ajvigil/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/ajvigil/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.22/microsoft.netcore.app.host.osx-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

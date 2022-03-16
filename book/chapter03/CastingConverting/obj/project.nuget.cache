@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WrLyHl5WfOdKSTc/vAWPEAi3Fp9QibY67IDrSFuzSX6Nnd2zUzuoBZt+YtAf56bWoPp6wubpCUp3EY4AYFoxYw==",
+  "dgSpecHash": "1FvLmGxTKbNmlFxBkvcezFWA2rWKwN7LJSciyoiAt3z67H7BGFQUlbRIB9PrqFo2JKSpraL8whD7lxZ67O42WA==",
   "success": true,
-  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter3/CastingConverting/CastingConverting.csproj",
+  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter03/CastingConverting/CastingConverting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

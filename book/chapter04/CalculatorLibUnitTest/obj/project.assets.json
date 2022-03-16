@@ -5994,11 +5994,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ajvigil/Desktop/code/csharp/book/chapter4/CalculatorLibUnitTest/CalculatorLibUnitTest.csproj",
+      "projectUniqueName": "/Users/ajvigil/Desktop/code/csharp/book/chapter04/CalculatorLibUnitTest/CalculatorLibUnitTest.csproj",
       "projectName": "CalculatorLibUnitTest",
-      "projectPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter4/CalculatorLibUnitTest/CalculatorLibUnitTest.csproj",
+      "projectPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter04/CalculatorLibUnitTest/CalculatorLibUnitTest.csproj",
       "packagesPath": "/Users/ajvigil/.nuget/packages/",
-      "outputPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter4/CalculatorLibUnitTest/obj/",
+      "outputPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter04/CalculatorLibUnitTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ajvigil/.nuget/NuGet/NuGet.Config"
@@ -6013,8 +6013,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/ajvigil/Desktop/code/csharp/book/chapter4/CalculatorLib/CalculatorLib.csproj": {
-              "projectPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter4/CalculatorLib/CalculatorLib.csproj"
+            "/Users/ajvigil/Desktop/code/csharp/book/chapter04/CalculatorLib/CalculatorLib.csproj": {
+              "projectPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter04/CalculatorLib/CalculatorLib.csproj"
             }
           }
         }

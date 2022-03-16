@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ajvigil/Desktop/code/csharp/book/chapter2/Arrays/Arrays.csproj",
+      "projectUniqueName": "/Users/ajvigil/Desktop/code/csharp/book/chapter02/Arrays/Arrays.csproj",
       "projectName": "Arrays",
-      "projectPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter2/Arrays/Arrays.csproj",
+      "projectPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter02/Arrays/Arrays.csproj",
       "packagesPath": "/Users/ajvigil/.nuget/packages/",
-      "outputPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter2/Arrays/obj/",
+      "outputPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter02/Arrays/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ajvigil/.nuget/NuGet/NuGet.Config"

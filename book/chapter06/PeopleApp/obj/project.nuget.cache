@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fojTHjDrV+IXI7itiNSEnT0S4kYH18I5htY9j3g1yekXgJVO/nHZEeRU+xlhsKRfqeIgopzk8iu0p/+0UoOX2g==",
+  "dgSpecHash": "aqBRxc/GSjkSgVcmDkv8R3kAMZFEbKS///VZINzFyDzp4mpKIW4eMNQqPgBqhorsbSiumDKz0q7HE2gzeaZjhw==",
   "success": true,
-  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter6/PeopleApp/PeopleApp.csproj",
+  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter06/PeopleApp/PeopleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kMZ3dqXgMkaK1VVZGU6bSa59l006gVSH87bv8XSavkHsuOn8kiZAvRKRg3AUIk8oE0WxLXEfz9WJeFcEUCiSlw==",
+  "dgSpecHash": "7ujyQ9Pg/gMGCBDW/dxIBbHMeJeiOgTyFo6iBXrQ7m5+ItpuKmlZDPT8Mr5Yi0BTqA/KzMbGeB3oYCO1l2mItw==",
   "success": true,
-  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter3/SelectionStatements/SelectionStatements.csproj",
+  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter03/SelectionStatements/SelectionStatements.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

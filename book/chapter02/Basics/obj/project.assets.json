@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ajvigil/Desktop/code/csharp/book/chapter2/Basics/Basics.csproj",
+      "projectUniqueName": "/Users/ajvigil/Desktop/code/csharp/book/chapter02/Basics/Basics.csproj",
       "projectName": "Basics",
-      "projectPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter2/Basics/Basics.csproj",
+      "projectPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter02/Basics/Basics.csproj",
       "packagesPath": "/Users/ajvigil/.nuget/packages/",
-      "outputPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter2/Basics/obj/",
+      "outputPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter02/Basics/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ajvigil/.nuget/NuGet/NuGet.Config"

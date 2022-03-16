@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IPcaqsWhU3cHy8i5bStk01kHJX0sQ78usMeSZ3ziPo9IPkJaOmPD6cgU50hdFiFeYEjMzjYPoFshsyf18o94fw==",
+  "dgSpecHash": "DShXYon8b3koh3uCuDYuu9RG4q07VklOjJKLlPWMK8UdGLm4QFUAIqTzi6YjKYN2MecQZo/o7Nh1LiaXem6CLQ==",
   "success": true,
-  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter3/BitwiseAndShiftOperators/BitwiseAndShiftOperators.csproj",
+  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter03/BitwiseAndShiftOperators/BitwiseAndShiftOperators.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ajvigil/Desktop/code/csharp/book/chapter2/Formatting/Formatting.csproj": {}
+    "/Users/ajvigil/Desktop/code/csharp/book/chapter02/Formatting/Formatting.csproj": {}
   },
   "projects": {
-    "/Users/ajvigil/Desktop/code/csharp/book/chapter2/Formatting/Formatting.csproj": {
+    "/Users/ajvigil/Desktop/code/csharp/book/chapter02/Formatting/Formatting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ajvigil/Desktop/code/csharp/book/chapter2/Formatting/Formatting.csproj",
+        "projectUniqueName": "/Users/ajvigil/Desktop/code/csharp/book/chapter02/Formatting/Formatting.csproj",
         "projectName": "Formatting",
-        "projectPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter2/Formatting/Formatting.csproj",
+        "projectPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter02/Formatting/Formatting.csproj",
         "packagesPath": "/Users/ajvigil/.nuget/packages/",
-        "outputPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter2/Formatting/obj/",
+        "outputPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter02/Formatting/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ajvigil/.nuget/NuGet/NuGet.Config"

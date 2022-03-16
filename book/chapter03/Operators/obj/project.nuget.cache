@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8j6boN2IlKY9w5zFu8HOC1MsgqyoN41BNrQOYENvUMljmPycl8XcFPw6ajLa7Ik4gTcfOOvFD4qoXDbZcpl0Og==",
+  "dgSpecHash": "4+3JyPpLj3sGE7DAVBzaGGro9jyt8YYG0/zZbD2LxdbB2va2vkhWIbme5qS7glHlWqUNU8ZBjxSTz38xGmJlPg==",
   "success": true,
-  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter3/Operators/Operators.csproj",
+  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter03/Operators/Operators.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gYAAf5BsdLQi/wmllnewWZb4SezcXypmnV9lGCYUtnnX/ZeuXZES6yAGA+iF27VC7aitjw1928H5JLLTC0KOCg==",
+  "dgSpecHash": "mM9JmXlZpAdcM+h5DC3PWtDfE2Klq5PywBHR4HK8Z6RmIbbriK7cEgu6GM6eALQ6b97WlEw2dIOlSPJsh6q4/g==",
   "success": true,
-  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter4/Instrumenting/Instrumenting.csproj",
+  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter04/Instrumenting/Instrumenting.csproj",
   "expectedPackageFiles": [
     "/Users/ajvigil/.nuget/packages/microsoft.extensions.configuration/6.0.1/microsoft.extensions.configuration.6.0.1.nupkg.sha512",
     "/Users/ajvigil/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

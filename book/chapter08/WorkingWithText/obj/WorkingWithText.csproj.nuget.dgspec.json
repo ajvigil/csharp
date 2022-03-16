@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ajvigil/Desktop/code/csharp/book/chapter8/WorkingWithText/WorkingWithText.csproj": {}
+    "/Users/ajvigil/Desktop/code/csharp/book/chapter08/WorkingWithText/WorkingWithText.csproj": {}
   },
   "projects": {
-    "/Users/ajvigil/Desktop/code/csharp/book/chapter8/WorkingWithText/WorkingWithText.csproj": {
+    "/Users/ajvigil/Desktop/code/csharp/book/chapter08/WorkingWithText/WorkingWithText.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ajvigil/Desktop/code/csharp/book/chapter8/WorkingWithText/WorkingWithText.csproj",
+        "projectUniqueName": "/Users/ajvigil/Desktop/code/csharp/book/chapter08/WorkingWithText/WorkingWithText.csproj",
         "projectName": "WorkingWithText",
-        "projectPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter8/WorkingWithText/WorkingWithText.csproj",
+        "projectPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter08/WorkingWithText/WorkingWithText.csproj",
         "packagesPath": "/Users/ajvigil/.nuget/packages/",
-        "outputPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter8/WorkingWithText/obj/",
+        "outputPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter08/WorkingWithText/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ajvigil/.nuget/NuGet/NuGet.Config"

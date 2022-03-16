@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j3w3CScQppiElFuZDWEDoET1x0AYoq/spo974wrLr1Z/ktlJ7iMYygJSCNTdeTWdlRtUOS1lqRh45t04XCx+RA==",
+  "dgSpecHash": "2OJcONeJDHVE1+/8kAYhjRonSTRBnYnZVAItyhQW/LqefNRSaGz5XEtNCTd+ddaXQOpWyXTWy0q5X5iOzYIcNg==",
   "success": true,
-  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter8/WorkingWithDictionaries/WorkingWithDictionaries.csproj",
+  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter08/WorkingWithDictionaries/WorkingWithDictionaries.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "adUcXGQDanOoYXoyZRfl2o2jUGh14lQZ+lXiT4T/1uKvMxTy+oOi3sZfvIist4H+UiJkj2nrtuzZEUsye+edpQ==",
+  "dgSpecHash": "NZokReXaOO8hlBG6Ua2G8HYdoSTGbE+muHMlXGS4b8mntYrjqLTeJx+0FYJsfcEZD/PQ9V24hs2feIeiM1UaEQ==",
   "success": true,
-  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter4/WritingFunctions/WritingFunctions.csproj",
+  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter04/WritingFunctions/WritingFunctions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

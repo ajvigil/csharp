@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Lo/x/uwh9H9iOP8DMFrtBq9bpfCD7CTiAbxu0M2QlHTOXTqjCp8wY3+FsvpyvQMYqdHzcodws771ATUvXnuzA==",
+  "dgSpecHash": "0J5tJZdzSUl0QgBCaB0sgIV7kGRe8Mi1+r8pLHtgXfaLDxbp1thQ9ReRVrqBVRu0C4YoBicTznbu6xOEjz5frQ==",
   "success": true,
-  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter3/HandlingExceptions/HandlingExceptions.csproj",
+  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter03/HandlingExceptions/HandlingExceptions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

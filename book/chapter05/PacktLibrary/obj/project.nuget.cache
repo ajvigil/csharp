@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jsfl9o4TpqokYEz8SfrRv8Gi2HFO5NtCIgHsh+CxdmxHk+23Y6r/wgDnh5+IsvYGzeiHP4qK/ioMNvZxovEksw==",
+  "dgSpecHash": "XTe0wMtuInaQ6M5utero+R1+6D1jlmkHxj0n/0TVuwvt2axMw6OXWOmuJd2ESPKEyXCacKQhomq5fXvdxsVWrg==",
   "success": true,
-  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter5/PacktLibrary/PacktLibrary.csproj",
+  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter05/PacktLibrary/PacktLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

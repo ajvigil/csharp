@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ajvigil/Desktop/code/csharp/book/chapter2/Numbers/Numbers.csproj": {}
+    "/Users/ajvigil/Desktop/code/csharp/book/chapter02/Numbers/Numbers.csproj": {}
   },
   "projects": {
-    "/Users/ajvigil/Desktop/code/csharp/book/chapter2/Numbers/Numbers.csproj": {
+    "/Users/ajvigil/Desktop/code/csharp/book/chapter02/Numbers/Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ajvigil/Desktop/code/csharp/book/chapter2/Numbers/Numbers.csproj",
+        "projectUniqueName": "/Users/ajvigil/Desktop/code/csharp/book/chapter02/Numbers/Numbers.csproj",
         "projectName": "Numbers",
-        "projectPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter2/Numbers/Numbers.csproj",
+        "projectPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter02/Numbers/Numbers.csproj",
         "packagesPath": "/Users/ajvigil/.nuget/packages/",
-        "outputPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter2/Numbers/obj/",
+        "outputPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter02/Numbers/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ajvigil/.nuget/NuGet/NuGet.Config"

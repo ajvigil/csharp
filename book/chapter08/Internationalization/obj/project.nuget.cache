@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XEaHemN1NzndFochKKCy2GoQtFke/6uUNGYrkkCLeTRsnm0hEhD7IqDfLPtyHgZUlFVGvA0+Lo2iwkPxUf6QLw==",
+  "dgSpecHash": "JsCrv78w0ihI0Jdd5cul5Ih7PdARZYHc8wgYVrlzdAqELVo4yIIMoEHcm4G3dmtaA8f0UOu0B1lo6WAJXg5pxQ==",
   "success": true,
-  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter8/Internationalization/Internationalization.csproj",
+  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter08/Internationalization/Internationalization.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

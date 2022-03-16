@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "EiCTaLyLvw64L7D0nEPLGU33OTzOrL+REyQp5N07m+MfNp/ScU93cS0pWh3M72c7TxjcyErcCOg18Se++X9e+Q==",
+  "dgSpecHash": "APvx8FXtjDdga6NXUoAox09vlIWgUDPkebWFCuLNKFwXq9MPAjChzQDxgBLGzNY/Qne6m1FE9Tzocd3OJ226mQ==",
   "success": true,
-  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter7/DotNetCoreEverywhere/DotNetCoreEverywhere.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter07/DotNetCoreEverywhere/DotNetCoreEverywhere.csproj",
+  "expectedPackageFiles": [
+    "/Users/ajvigil/.nuget/packages/microsoft.netcore.app.runtime.win-x64/6.0.1/microsoft.netcore.app.runtime.win-x64.6.0.1.nupkg.sha512",
+    "/Users/ajvigil/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/6.0.1/microsoft.netcore.app.runtime.osx-x64.6.0.1.nupkg.sha512",
+    "/Users/ajvigil/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.1/microsoft.netcore.app.runtime.linux-x64.6.0.1.nupkg.sha512",
+    "/Users/ajvigil/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/6.0.1/microsoft.aspnetcore.app.runtime.win-x64.6.0.1.nupkg.sha512",
+    "/Users/ajvigil/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/6.0.1/microsoft.aspnetcore.app.runtime.osx-x64.6.0.1.nupkg.sha512",
+    "/Users/ajvigil/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.1/microsoft.aspnetcore.app.runtime.linux-x64.6.0.1.nupkg.sha512",
+    "/Users/ajvigil/.nuget/packages/microsoft.netcore.app.host.win-x64/6.0.1/microsoft.netcore.app.host.win-x64.6.0.1.nupkg.sha512",
+    "/Users/ajvigil/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.1/microsoft.netcore.app.host.osx-x64.6.0.1.nupkg.sha512",
+    "/Users/ajvigil/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.1/microsoft.netcore.app.host.linux-x64.6.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

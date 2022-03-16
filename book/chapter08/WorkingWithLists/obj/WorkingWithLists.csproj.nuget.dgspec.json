@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ajvigil/Desktop/code/csharp/book/chapter8/WorkingWithLists/WorkingWithLists.csproj": {}
+    "/Users/ajvigil/Desktop/code/csharp/book/chapter08/WorkingWithLists/WorkingWithLists.csproj": {}
   },
   "projects": {
-    "/Users/ajvigil/Desktop/code/csharp/book/chapter8/WorkingWithLists/WorkingWithLists.csproj": {
+    "/Users/ajvigil/Desktop/code/csharp/book/chapter08/WorkingWithLists/WorkingWithLists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ajvigil/Desktop/code/csharp/book/chapter8/WorkingWithLists/WorkingWithLists.csproj",
+        "projectUniqueName": "/Users/ajvigil/Desktop/code/csharp/book/chapter08/WorkingWithLists/WorkingWithLists.csproj",
         "projectName": "WorkingWithLists",
-        "projectPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter8/WorkingWithLists/WorkingWithLists.csproj",
+        "projectPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter08/WorkingWithLists/WorkingWithLists.csproj",
         "packagesPath": "/Users/ajvigil/.nuget/packages/",
-        "outputPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter8/WorkingWithLists/obj/",
+        "outputPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter08/WorkingWithLists/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ajvigil/.nuget/NuGet/NuGet.Config"

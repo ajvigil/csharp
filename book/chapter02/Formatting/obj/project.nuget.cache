@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n03J1kUTKqVNTkrOlp0p6T5q2YceywbwMgBRrnvLlQtqG9A5YGhQ1ZYwT0+Foy0zsYxIbrLE+4pLvtZdEsbzKQ==",
+  "dgSpecHash": "BOJt/gYO8pKYVts8xiynPy1/y521MaYlAlw95iQQf87sAmMO9JgN46pV9bYCLUC1KouRZlmmTPVEbs1woL61LQ==",
   "success": true,
-  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter2/Formatting/Formatting.csproj",
+  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter02/Formatting/Formatting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

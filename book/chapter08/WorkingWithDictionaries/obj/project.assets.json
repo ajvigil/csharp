@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ajvigil/Desktop/code/csharp/book/chapter8/WorkingWithDictionaries/WorkingWithDictionaries.csproj",
+      "projectUniqueName": "/Users/ajvigil/Desktop/code/csharp/book/chapter08/WorkingWithDictionaries/WorkingWithDictionaries.csproj",
       "projectName": "WorkingWithDictionaries",
-      "projectPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter8/WorkingWithDictionaries/WorkingWithDictionaries.csproj",
+      "projectPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter08/WorkingWithDictionaries/WorkingWithDictionaries.csproj",
       "packagesPath": "/Users/ajvigil/.nuget/packages/",
-      "outputPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter8/WorkingWithDictionaries/obj/",
+      "outputPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter08/WorkingWithDictionaries/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ajvigil/.nuget/NuGet/NuGet.Config"

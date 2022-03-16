@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ajvigil/Desktop/code/csharp/book/chapter9/WorkingWithFileSystems/WorkingWithFileSystems.csproj": {}
+    "/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithFileSystems/WorkingWithFileSystems.csproj": {}
   },
   "projects": {
-    "/Users/ajvigil/Desktop/code/csharp/book/chapter9/WorkingWithFileSystems/WorkingWithFileSystems.csproj": {
+    "/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithFileSystems/WorkingWithFileSystems.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ajvigil/Desktop/code/csharp/book/chapter9/WorkingWithFileSystems/WorkingWithFileSystems.csproj",
+        "projectUniqueName": "/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithFileSystems/WorkingWithFileSystems.csproj",
         "projectName": "WorkingWithFileSystems",
-        "projectPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter9/WorkingWithFileSystems/WorkingWithFileSystems.csproj",
+        "projectPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithFileSystems/WorkingWithFileSystems.csproj",
         "packagesPath": "/Users/ajvigil/.nuget/packages/",
-        "outputPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter9/WorkingWithFileSystems/obj/",
+        "outputPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithFileSystems/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ajvigil/.nuget/NuGet/NuGet.Config"

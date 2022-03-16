@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ajvigil/Desktop/code/csharp/book/chapter8/WorkingWithNumbers/WorkingWithNumbers.csproj",
+      "projectUniqueName": "/Users/ajvigil/Desktop/code/csharp/book/chapter08/WorkingWithNumbers/WorkingWithNumbers.csproj",
       "projectName": "WorkingWithNumbers",
-      "projectPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter8/WorkingWithNumbers/WorkingWithNumbers.csproj",
+      "projectPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter08/WorkingWithNumbers/WorkingWithNumbers.csproj",
       "packagesPath": "/Users/ajvigil/.nuget/packages/",
-      "outputPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter8/WorkingWithNumbers/obj/",
+      "outputPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter08/WorkingWithNumbers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ajvigil/.nuget/NuGet/NuGet.Config"

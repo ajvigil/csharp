@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bJ4IxZax7fh43GPIWGBW1JxeLm2iRRXAJX29ArwEjV0uhipcxUjsFgVlrAa4btbV9EhOCSzZV5wf50JXerxuPA==",
+  "dgSpecHash": "AqbPqHBpRoJB39rac5AwNrK4e1OrV/O8y8OtUkjiOFC5dZTzabqiHGz7290reXc8d29bFmE8ZGitc6bfMfJvYQ==",
   "success": true,
-  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter2/Variables/Variables.csproj",
+  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter02/Variables/Variables.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0atyGJ8Au5Au14E5K++bujjJNSfG6hhtGyvPR73KIvZDf/QfCJs7AlfnOmhb0JHpLf+yAG12SrH1M+1OgT5cRQ==",
+  "dgSpecHash": "ENRe0ogqHOqwTYlYJdLzef8+Dda1SWI8jNEyI5wrRhYSDppEBI6M4zEpd9+wgSGO4oV8PVf7u2HPGPIv9m4Xqg==",
   "success": true,
-  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter9/WorkingWithFileSystems/WorkingWithFileSystems.csproj",
+  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithFileSystems/WorkingWithFileSystems.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

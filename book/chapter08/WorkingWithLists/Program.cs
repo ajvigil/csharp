@@ -29,7 +29,7 @@ namespace WorkingWithLists
                 WriteLine($"    {city}");
             }
 
-            cities.Remove(1);
+            cities.RemoveAt(1);
             cities.Remove("Milan");
             WriteLine("After removing two cities");
             foreach (string city in cities) 

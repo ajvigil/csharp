@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i87QTvegOpjPD+4szNdEWk06eC/lPYW3EPhI9uJR5zpAhwnaS1Sb8szvE7K843Xx82ntDnDrYVPH6wqEOILp6g==",
+  "dgSpecHash": "WYsMQABzB4C+Qjh4I3NPauDMm2CHq4H3Muf85o0m8iFY/Ag4+mJMd7obTt1j9b1Qe9sW6EQNfyD0uLZFPFdqvw==",
   "success": true,
-  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter2/NullHandling/NullHandling.csproj",
+  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter02/NullHandling/NullHandling.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

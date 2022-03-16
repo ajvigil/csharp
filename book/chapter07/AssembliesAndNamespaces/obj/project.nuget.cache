@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "zRrRqbFQ8yeuYSE+vO+WLsJTaZZlcMzeQxGrxlvUuINewPv0+adoUkGlZV+o0mOnzqCQkzbRKe380IczIABiKA==",
+  "dgSpecHash": "fentjOsPtWg/JIMXPr0or3tqhU0BiAB4Vw6IOqgnTZwj4nWiokRZz27fwJjWNt71LdXNVwg2ajLLWekvXgTEJg==",
   "success": true,
-  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter7/AssembliesAndNamespaces/AssembliesAndNamespaces.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter07/AssembliesAndNamespaces/AssembliesAndNamespaces.csproj",
+  "expectedPackageFiles": [
+    "/Users/ajvigil/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

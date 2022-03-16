@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ajvigil/Desktop/code/csharp/book/chapter5/PacktLibrary/PacktLibrary.csproj",
+      "projectUniqueName": "/Users/ajvigil/Desktop/code/csharp/book/chapter05/PacktLibrary/PacktLibrary.csproj",
       "projectName": "PacktLibrary",
-      "projectPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter5/PacktLibrary/PacktLibrary.csproj",
+      "projectPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter05/PacktLibrary/PacktLibrary.csproj",
       "packagesPath": "/Users/ajvigil/.nuget/packages/",
-      "outputPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter5/PacktLibrary/obj/",
+      "outputPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter05/PacktLibrary/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ajvigil/.nuget/NuGet/NuGet.Config"

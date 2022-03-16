@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wvrStKiD3Sb2R16PibyP/JCXC59IRfVh1bcoX8V9sAEn2dgQI/zMLVmkiOHPOJDZkKuUCO0hSeR961R/Uj2XtQ==",
+  "dgSpecHash": "MqkDxkh7RgLiXkzGbt1vWqYm6TtdqVJF5Ca4p9yATL0rK90iwy3JSngCZR4yFMIaqsc/JbX6o3+iiVTW7ffmeQ==",
   "success": true,
-  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter8/WorkingWithText/WorkingWithText.csproj",
+  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter08/WorkingWithText/WorkingWithText.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

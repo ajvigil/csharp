@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ajvigil/Desktop/code/csharp/book/chapter1/HelloCS/csharp.csproj": {}
+    "/Users/ajvigil/Desktop/code/csharp/book/chapter01/HelloCS/csharp.csproj": {}
   },
   "projects": {
-    "/Users/ajvigil/Desktop/code/csharp/book/chapter1/HelloCS/csharp.csproj": {
+    "/Users/ajvigil/Desktop/code/csharp/book/chapter01/HelloCS/csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ajvigil/Desktop/code/csharp/book/chapter1/HelloCS/csharp.csproj",
+        "projectUniqueName": "/Users/ajvigil/Desktop/code/csharp/book/chapter01/HelloCS/csharp.csproj",
         "projectName": "csharp",
-        "projectPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter1/HelloCS/csharp.csproj",
+        "projectPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter01/HelloCS/csharp.csproj",
         "packagesPath": "/Users/ajvigil/.nuget/packages/",
-        "outputPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter1/HelloCS/obj/",
+        "outputPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter01/HelloCS/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ajvigil/.nuget/NuGet/NuGet.Config"

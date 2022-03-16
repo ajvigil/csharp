@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Iy7Z+Wtbj6fEeJcGUFRNrFXLMBvAr1+eJdTDjXbteTlp160JXw+oYdElNRlKA6q3oGa5bHcfpg9TOPhxyuymHw==",
+  "dgSpecHash": "5gmgLphu2UG9yUokcay4XsUOU5jrfoBOmUn6f9+JkTuLIzdced9e3vdT1cQfr9X+aPkGKseFhp4k/WwoX878lw==",
   "success": true,
-  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter3/BooleanOperators/BooleanOperators.csproj",
+  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter03/BooleanOperators/BooleanOperators.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

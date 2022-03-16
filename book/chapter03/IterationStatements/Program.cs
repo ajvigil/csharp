@@ -1,6 +1,5 @@
 ﻿using System;
 using static System.Console;
-using System.IO;
 
 namespace IterationStatements
 {
@@ -8,51 +7,53 @@ namespace IterationStatements
   {
     static void Main(string[] args)
     {
-        //while statement 
-        int x = 0;
+      // Looping with the while statement
 
-        while (x < 10)
-        {
-            WriteLine(x);
-            x++;
-        }
-        //do statement 
+      int x = 0;
 
-        string password = string.Empty;
-        int attempts = 0;
+      while (x < 10)
+      {
+        WriteLine(x);
+        x++;
+      }
 
-        do 
-        {
-            attempts++;
-            Write("Enter your password: ");
-            password = ReadLine();
-        }
-        while ((password != "Pa$$w0rd") & (attempts < 10));
+      // Looping with the do statement
 
-        if (attempts < 10)
-        {
-            WriteLine("Correct!");
-        }
-        else 
-        {
-            WriteLine("You have used 10 attempts!");
-        }
+      string password = string.Empty;
+      int attempts = 0;
 
-        // looping with the for statement 
+      do
+      {
+        attempts++;
+        Write("Enter your password: ");
+        password = ReadLine();
+      }
+      while ((password != "Pa$$w0rd") & (attempts < 10));
 
-        for (int y = 1; y <= 10; y++)
-        {
-            WriteLine(y);
-        }
+      if (attempts < 10)
+      {
+        WriteLine("Correct!");
+      }
+      else
+      {
+        WriteLine("You have used 10 attempts!");
+      }
 
-        // looping with foreach
+      // Looping with the for statement
 
-        string[] names = { "Adam", "Barry", "Charlie"};
+      for (int y = 1; y <= 10; y++)
+      {
+        WriteLine(y);
+      }
 
-        foreach (string name in names)
-        {
-            WriteLine($"{name} has {name.Length} characters.");
-        }
+      // Looping with the foreach statement
+
+      string[] names = { "Adam", "Barry", "Charlie" };
+
+      foreach (string name in names)
+      {
+        WriteLine($"{name} has {name.Length} characters.");
+      }
     }
   }
 }

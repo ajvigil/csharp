@@ -39,9 +39,3 @@ namespace Basics
     }
   }
 }
-
-/*
-this is a multi-line 
-comment. 
-*/
-

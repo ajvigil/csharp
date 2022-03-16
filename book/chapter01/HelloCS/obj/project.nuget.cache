@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zV5pAXsMuRDfLy+P2ZJW/L+iVNZqlSe/NTs+q9OrNUFZ5UuClCdDUks9dI2Otg7Ob9VXeJkYXAn+Cmln2XC6PQ==",
+  "dgSpecHash": "/CBhVrlnO7vmFOJCXejvQ9CfQNlljVGSrDSPeNSitlf1PIFVMMWD+7ki7E71c7qJ+ejm+1YG7HmVAgvELzmhiQ==",
   "success": true,
-  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter1/HelloCS/csharp.csproj",
+  "projectFilePath": "/Users/ajvigil/Desktop/code/csharp/book/chapter01/HelloCS/csharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

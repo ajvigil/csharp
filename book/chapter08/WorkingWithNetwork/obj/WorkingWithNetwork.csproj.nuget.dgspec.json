@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ajvigil/Desktop/code/csharp/book/chapter8/WorkingWithNetwork/WorkingWithNetwork.csproj": {}
+    "/Users/ajvigil/Desktop/code/csharp/book/chapter08/WorkingWithNetwork/WorkingWithNetwork.csproj": {}
   },
   "projects": {
-    "/Users/ajvigil/Desktop/code/csharp/book/chapter8/WorkingWithNetwork/WorkingWithNetwork.csproj": {
+    "/Users/ajvigil/Desktop/code/csharp/book/chapter08/WorkingWithNetwork/WorkingWithNetwork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ajvigil/Desktop/code/csharp/book/chapter8/WorkingWithNetwork/WorkingWithNetwork.csproj",
+        "projectUniqueName": "/Users/ajvigil/Desktop/code/csharp/book/chapter08/WorkingWithNetwork/WorkingWithNetwork.csproj",
         "projectName": "WorkingWithNetwork",
-        "projectPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter8/WorkingWithNetwork/WorkingWithNetwork.csproj",
+        "projectPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter08/WorkingWithNetwork/WorkingWithNetwork.csproj",
         "packagesPath": "/Users/ajvigil/.nuget/packages/",
-        "outputPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter8/WorkingWithNetwork/obj/",
+        "outputPath": "/Users/ajvigil/Desktop/code/csharp/book/chapter08/WorkingWithNetwork/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ajvigil/.nuget/NuGet/NuGet.Config"
