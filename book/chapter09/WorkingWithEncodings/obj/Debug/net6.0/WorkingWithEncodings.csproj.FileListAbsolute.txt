@@ -1,0 +1,15 @@
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithEncodings/bin/Debug/net6.0/WorkingWithEncodings
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithEncodings/bin/Debug/net6.0/WorkingWithEncodings.deps.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithEncodings/bin/Debug/net6.0/WorkingWithEncodings.runtimeconfig.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithEncodings/bin/Debug/net6.0/WorkingWithEncodings.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithEncodings/bin/Debug/net6.0/ref/WorkingWithEncodings.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithEncodings/bin/Debug/net6.0/WorkingWithEncodings.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithEncodings/obj/Debug/net6.0/WorkingWithEncodings.csproj.AssemblyReference.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithEncodings/obj/Debug/net6.0/WorkingWithEncodings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithEncodings/obj/Debug/net6.0/WorkingWithEncodings.AssemblyInfoInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithEncodings/obj/Debug/net6.0/WorkingWithEncodings.AssemblyInfo.cs
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithEncodings/obj/Debug/net6.0/WorkingWithEncodings.csproj.CoreCompileInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithEncodings/obj/Debug/net6.0/WorkingWithEncodings.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithEncodings/obj/Debug/net6.0/ref/WorkingWithEncodings.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithEncodings/obj/Debug/net6.0/WorkingWithEncodings.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithEncodings/obj/Debug/net6.0/WorkingWithEncodings.genruntimeconfig.cache

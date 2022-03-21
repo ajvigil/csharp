@@ -1,0 +1,16 @@
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithSterilization/bin/Debug/netcoreapp3.1/WorkingWithSterilization
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithSterilization/bin/Debug/netcoreapp3.1/WorkingWithSterilization.deps.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithSterilization/bin/Debug/netcoreapp3.1/WorkingWithSterilization.runtimeconfig.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithSterilization/bin/Debug/netcoreapp3.1/WorkingWithSterilization.runtimeconfig.dev.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithSterilization/bin/Debug/netcoreapp3.1/WorkingWithSterilization.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithSterilization/bin/Debug/netcoreapp3.1/WorkingWithSterilization.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithSterilization/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithSterilization/obj/Debug/netcoreapp3.1/WorkingWithSterilization.csproj.AssemblyReference.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithSterilization/obj/Debug/netcoreapp3.1/WorkingWithSterilization.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithSterilization/obj/Debug/netcoreapp3.1/WorkingWithSterilization.AssemblyInfoInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithSterilization/obj/Debug/netcoreapp3.1/WorkingWithSterilization.AssemblyInfo.cs
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithSterilization/obj/Debug/netcoreapp3.1/WorkingWithSterilization.csproj.CoreCompileInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithSterilization/obj/Debug/netcoreapp3.1/WorkingWithSterilization.csproj.CopyComplete
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithSterilization/obj/Debug/netcoreapp3.1/WorkingWithSterilization.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithSterilization/obj/Debug/netcoreapp3.1/WorkingWithSterilization.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithSterilization/obj/Debug/netcoreapp3.1/WorkingWithSterilization.genruntimeconfig.cache

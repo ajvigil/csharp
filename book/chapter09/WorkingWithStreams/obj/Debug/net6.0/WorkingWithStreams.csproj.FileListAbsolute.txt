@@ -1,0 +1,15 @@
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithStreams/bin/Debug/net6.0/WorkingWithStreams
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithStreams/bin/Debug/net6.0/WorkingWithStreams.deps.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithStreams/bin/Debug/net6.0/WorkingWithStreams.runtimeconfig.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithStreams/bin/Debug/net6.0/WorkingWithStreams.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithStreams/bin/Debug/net6.0/ref/WorkingWithStreams.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithStreams/bin/Debug/net6.0/WorkingWithStreams.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithStreams/obj/Debug/net6.0/WorkingWithStreams.csproj.AssemblyReference.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithStreams/obj/Debug/net6.0/WorkingWithStreams.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithStreams/obj/Debug/net6.0/WorkingWithStreams.AssemblyInfoInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithStreams/obj/Debug/net6.0/WorkingWithStreams.AssemblyInfo.cs
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithStreams/obj/Debug/net6.0/WorkingWithStreams.csproj.CoreCompileInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithStreams/obj/Debug/net6.0/WorkingWithStreams.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithStreams/obj/Debug/net6.0/ref/WorkingWithStreams.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithStreams/obj/Debug/net6.0/WorkingWithStreams.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter09/WorkingWithStreams/obj/Debug/net6.0/WorkingWithStreams.genruntimeconfig.cache
