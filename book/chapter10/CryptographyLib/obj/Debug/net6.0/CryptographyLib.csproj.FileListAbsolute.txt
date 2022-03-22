@@ -1,0 +1,12 @@
+/Users/ajvigil/Desktop/code/csharp/book/chapter10/CryptographyLib/bin/Debug/net6.0/CryptographyLib.deps.json
+/Users/ajvigil/Desktop/code/csharp/book/chapter10/CryptographyLib/bin/Debug/net6.0/CryptographyLib.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter10/CryptographyLib/bin/Debug/net6.0/ref/CryptographyLib.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter10/CryptographyLib/bin/Debug/net6.0/CryptographyLib.pdb
+/Users/ajvigil/Desktop/code/csharp/book/chapter10/CryptographyLib/obj/Debug/net6.0/CryptographyLib.csproj.AssemblyReference.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter10/CryptographyLib/obj/Debug/net6.0/CryptographyLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajvigil/Desktop/code/csharp/book/chapter10/CryptographyLib/obj/Debug/net6.0/CryptographyLib.AssemblyInfoInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter10/CryptographyLib/obj/Debug/net6.0/CryptographyLib.AssemblyInfo.cs
+/Users/ajvigil/Desktop/code/csharp/book/chapter10/CryptographyLib/obj/Debug/net6.0/CryptographyLib.csproj.CoreCompileInputs.cache
+/Users/ajvigil/Desktop/code/csharp/book/chapter10/CryptographyLib/obj/Debug/net6.0/CryptographyLib.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter10/CryptographyLib/obj/Debug/net6.0/ref/CryptographyLib.dll
+/Users/ajvigil/Desktop/code/csharp/book/chapter10/CryptographyLib/obj/Debug/net6.0/CryptographyLib.pdb
